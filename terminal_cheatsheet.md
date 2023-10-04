@@ -42,3 +42,13 @@ rm -r
 
 . 
 : Reference current directory
+
+##Git Ignore (.gitignore) and Examples
+
+**.gitignore allows specific parts of a project to be ignored by others**
+
+**ignore all .log files**
+*.log
+
+**ignore all files in any directory named music**
+music/
