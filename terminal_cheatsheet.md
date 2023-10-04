@@ -1,4 +1,4 @@
-#Terminal Commands Cheatsheet
+# Terminal Commands Cheatsheet
 
 pwd
 : Display the current working directory
@@ -43,7 +43,7 @@ rm -r
 . 
 : Reference current directory
 
-##Git Ignore (.gitignore) and Examples
+## Git Ignore (.gitignore) and Examples
 
 **.gitignore allows specific parts of a project to be ignored by others**
 
