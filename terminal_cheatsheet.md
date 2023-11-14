@@ -34,7 +34,7 @@ cp
 rm 
 : Remove/Delete files 
 
-rm -r 
+rm -rf 
 : Remove/Delete all contents of a directory
 
 .. 
